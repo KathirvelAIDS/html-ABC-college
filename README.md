@@ -299,3 +299,82 @@
 ![image](https://github.com/KathirvelAIDS/html-ABC-college/assets/94911373/02afdf8f-59ea-4cf4-b351-85e8d2df0997)
 ![image](https://github.com/KathirvelAIDS/html-ABC-college/assets/94911373/0a9e1638-911d-47aa-97c9-0b9ed3485141)
 ![image](https://github.com/KathirvelAIDS/html-ABC-college/assets/94911373/c9ab76af-58d2-49c4-8581-719db84cb6a6)
+```
+```
+# MY DAY
+```c
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Day</title>
+</head>
+<body>
+<table cellpadding= "10" cellspacing="10" style="border-style: double;">
+<tr>
+<th colspan="2" class="center" style="border-style: double;"><mark>My Day</mark></th>
+</tr>
+<tr>
+<td style="border-style: double;">
+<ol>
+<li>wake up early
+<ul>
+<li style="list-style-type: square; margin-bottom: 20px">5AM</li>
+<li>walk</li>
+<li>jog</li>
+</ul>
+</li>
+</ol>
+</td>
+<td rowspan="3" style="border-style: double;">
+<table>
+<tr>
+<th colspan="2" class="center highlight" style="border-style: double;"><mark>Things to watch</mark></th>
+</tr>
+                        <tr>
+                            <td><img src="C:\Users\nihil\Pictures\download (3).jpeg" alt = "sunrise-image" width="100" height="100"></td>
+                            <td><img src="C:\Users\nihil\Pictures\download (1).jpeg" alt="sandwich-image" width="100" height="100"></td>
+                        </tr>
+                        <tr>
+                            <td><img src="C:\Users\nihil\Pictures\download (2).jpeg" alt="coffee-image" width="100" height="100"></td>
+                            <td><img src="C:\Users\nihil\Pictures\fresh-coffee-steams-wooden-table-close-up-generative-ai_188544-8923.avif" alt="teaching-image" width="100" height="100">
+</td>
+                        </tr>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-style: double;">
+<ol start="2">
+<li>breakfast
+<ul>
+<li style="list-style-type: square; margin-bottom: 20px">8AM</li>
+<li>eggs</li>
+<li>coffee</li>
+</ul>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td style="border-style: double;">
+<ol start="3">
+<li>go to Saveetha
+<ul>
+<li style="list-style-type: square; margin-bottom: 20px">8AM</li>
+<li>attend classes</li>
+<li>to be continued</li>
+</ul>
+</li>
+</ol>
+</td>
+</tr>
+</table>
+</body>
+</html>
+```
+# OUTPUT:
+![image](https://github.com/KathirvelAIDS/html-ABC-college/assets/94911373/ed358c0f-c4e7-4846-bc2a-1c817c422c8d)
+
